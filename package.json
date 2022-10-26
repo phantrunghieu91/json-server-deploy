@@ -1,0 +1,14 @@
+{
+  "name": "testing-server",
+  "version": "1.0.0",
+  "description": "Simple json database to deploy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
